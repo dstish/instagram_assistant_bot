@@ -1,6 +1,6 @@
 # Instagram Assistant Bot 🤖
 
-Welcome to Instagram Assistant Bot, your helpful companion for exploring Instagram posts effortlessly!
+Welcome to Instagram Assistant Bot, your helpful companion for downloading Instagram posts effortlessly!
 
 ## Installation 🚀
 
